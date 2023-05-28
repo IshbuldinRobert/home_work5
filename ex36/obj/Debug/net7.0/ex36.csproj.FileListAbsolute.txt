@@ -1,0 +1,5 @@
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.csproj.AssemblyReference.cache
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.AssemblyInfoInputs.cache
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.AssemblyInfo.cs
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.csproj.CoreCompileInputs.cache

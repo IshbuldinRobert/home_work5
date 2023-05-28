@@ -1,0 +1,15 @@
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.csproj.AssemblyReference.cache
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.AssemblyInfoInputs.cache
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.AssemblyInfo.cs
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work5\ex34\bin\Debug\net7.0\ex34.exe
+C:\Study\C#\home_work5\ex34\bin\Debug\net7.0\ex34.deps.json
+C:\Study\C#\home_work5\ex34\bin\Debug\net7.0\ex34.runtimeconfig.json
+C:\Study\C#\home_work5\ex34\bin\Debug\net7.0\ex34.dll
+C:\Study\C#\home_work5\ex34\bin\Debug\net7.0\ex34.pdb
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.dll
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\refint\ex34.dll
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.pdb
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ex34.genruntimeconfig.cache
+C:\Study\C#\home_work5\ex34\obj\Debug\net7.0\ref\ex34.dll
