@@ -1,0 +1,15 @@
+C:\Study\C#\home_work5\ex38\bin\Debug\net7.0\ex38.exe
+C:\Study\C#\home_work5\ex38\bin\Debug\net7.0\ex38.deps.json
+C:\Study\C#\home_work5\ex38\bin\Debug\net7.0\ex38.runtimeconfig.json
+C:\Study\C#\home_work5\ex38\bin\Debug\net7.0\ex38.dll
+C:\Study\C#\home_work5\ex38\bin\Debug\net7.0\ex38.pdb
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.csproj.AssemblyReference.cache
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.AssemblyInfoInputs.cache
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.AssemblyInfo.cs
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.dll
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\refint\ex38.dll
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.pdb
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ex38.genruntimeconfig.cache
+C:\Study\C#\home_work5\ex38\obj\Debug\net7.0\ref\ex38.dll

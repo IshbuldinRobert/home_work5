@@ -3,3 +3,13 @@ C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.GeneratedMSBuildEditorConfig.e
 C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.AssemblyInfoInputs.cache
 C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.AssemblyInfo.cs
 C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work5\ex36\bin\Debug\net7.0\ex36.exe
+C:\Study\C#\home_work5\ex36\bin\Debug\net7.0\ex36.deps.json
+C:\Study\C#\home_work5\ex36\bin\Debug\net7.0\ex36.runtimeconfig.json
+C:\Study\C#\home_work5\ex36\bin\Debug\net7.0\ex36.dll
+C:\Study\C#\home_work5\ex36\bin\Debug\net7.0\ex36.pdb
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.dll
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\refint\ex36.dll
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.pdb
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ex36.genruntimeconfig.cache
+C:\Study\C#\home_work5\ex36\obj\Debug\net7.0\ref\ex36.dll
